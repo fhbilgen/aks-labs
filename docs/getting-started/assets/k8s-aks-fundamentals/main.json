@@ -119,7 +119,7 @@
           {
             "name": "systempool",
             "count": 2,
-            "vmSize": "Standard_DC8as_v5",
+            "vmSize": "Standard_D8d_v5",
             "osType": "Linux",
             "mode": "System"
           }
