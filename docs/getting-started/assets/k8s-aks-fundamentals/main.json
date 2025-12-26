@@ -16,7 +16,7 @@
       }
     },
     "userObjectId": {
-      "type": "securestring",
+      "type": "string",
       "metadata": {
         "description": "The user object id for the cluster admin."
       }
